@@ -8,3 +8,4 @@
 #### [Тест-кейсы для тестирования корзины и оплаты из QASE, PDF](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Test%20Cases%20for%20cart%20and%20payment.pdf)
 #### [Тестовый прогон для корзины и оплаты из QASE, PDF](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Test%20Runs%20for%20test%20cases%20cart%20and%20payment%20from%20QASE.pdf)
 #### [Отчеты о дефекте для корзины и оплаты из YouTrack, XLSX](https://github.com/StanTokarev/web/blob/main/Stan%20Tokarev%20-%20Bug%20Reports%20for%20test%20cases%20cart%20and%20payment%20from%20YouTrack.xlsx)
+#### [1.Компьютер. Запрос отправляется 2 товара, меняю на добавление 500, MP4]
